@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="32e7e773-c4ad-4856-8f27-4f47151b0f1b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StringListManupulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/StringListManupulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,7 @@
   "keyToString": {
     "Python.26-yoda.executor": "Run",
     "Python.27-anakin.executor": "Run",
+    "Python.Functions.executor": "Run",
     "Python.StringListManupulation.executor": "Run",
     "Python.Strings.executor": "Run",
     "Python.Variables.executor": "Run",
@@ -39,7 +40,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -73,6 +74,7 @@
     <SUITE FILE_PATH="coverage/PythonBasics$27_anakin.coverage" NAME="27-anakin Coverage Results" MODIFIED="1718744988554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonCourse" />
     <SUITE FILE_PATH="coverage/PythonBasics$Variables.coverage" NAME="Variables Coverage Results" MODIFIED="1718746212102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonBasics$main.coverage" NAME="main Coverage Results" MODIFIED="1718744082047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HelloWorld" />
+    <SUITE FILE_PATH="coverage/PythonBasics$Functions.coverage" NAME="Functions Coverage Results" MODIFIED="1718805753469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonBasics$StringListManupulation.coverage" NAME="StringListManupulation Coverage Results" MODIFIED="1718793920830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
