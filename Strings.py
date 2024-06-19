@@ -14,8 +14,9 @@ my_string = "hello world"
 print(my_string[0])
 #ASCII code:
 print(ord(my_string[0]))
-print(chr(ord(my_string[2])))
+print(chr(ord(my_string[2])))#tersin tersi -> kendisi
 
+#Ayak -> IYIK
 myString = "Ayak"
 myString2 = myString.lower().replace("a","ı")
 print(myString2.upper())
