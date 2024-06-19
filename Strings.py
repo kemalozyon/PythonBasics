@@ -16,4 +16,6 @@ print(my_string[0])
 print(ord(my_string[0]))
 print(chr(ord(my_string[2])))
 
-
+myString = "Ayak"
+myString2 = myString.lower().replace("a","ı")
+print(myString2.upper())
