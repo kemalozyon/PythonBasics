@@ -1,7 +1,7 @@
 my_string = "Kemal"
 
 
-# Global ->
+# Global
 
 def my_func():
     my_string = "James"
