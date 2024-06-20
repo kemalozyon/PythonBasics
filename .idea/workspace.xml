@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="32e7e773-c4ad-4856-8f27-4f47151b0f1b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPFundementals/Abstraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOPFundementals/Abstraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WorkingWithFiles.py" beforeDir="false" afterPath="$PROJECT_DIR$/WorkingWithFiles.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,7 @@
     "Python.StringListManupulation.executor": "Run",
     "Python.Strings.executor": "Run",
     "Python.Variables.executor": "Run",
+    "Python.WorkingWithFiles.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "kemal",
@@ -99,7 +100,8 @@
     <SUITE FILE_PATH="coverage/PythonBasics$Inheritance.coverage" NAME="Inheritance Coverage Results" MODIFIED="1718873797405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPFundementals" />
     <SUITE FILE_PATH="coverage/PythonBasics$Strings.coverage" NAME="Strings Coverage Results" MODIFIED="1718792879209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonBasics$LEGB.coverage" NAME="LEGB Coverage Results" MODIFIED="1718836952508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonBasics$Abstraction.coverage" NAME="Abstraction Coverage Results" MODIFIED="1718887657122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPFundementals" />
+    <SUITE FILE_PATH="coverage/PythonBasics$Abstraction.coverage" NAME="Abstraction Coverage Results" MODIFIED="1718888295638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOPFundementals" />
+    <SUITE FILE_PATH="coverage/PythonBasics$WorkingWithFiles.coverage" NAME="WorkingWithFiles Coverage Results" MODIFIED="1718919920222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonBasics$27_anakin.coverage" NAME="27-anakin Coverage Results" MODIFIED="1718744988554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonCourse" />
     <SUITE FILE_PATH="coverage/PythonBasics$Variables.coverage" NAME="Variables Coverage Results" MODIFIED="1718746212102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonBasics$StringListManupulation.coverage" NAME="StringListManupulation Coverage Results" MODIFIED="1718793920830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
