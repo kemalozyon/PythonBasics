@@ -32,6 +32,7 @@ class Mercedes(Car):
     def __init__(self,name):
         self.name = name
         print(f"{self.name}")
+        pass
 
 myNewCar = Tesla("Model X")
 myNewCar.maxSpeed()
